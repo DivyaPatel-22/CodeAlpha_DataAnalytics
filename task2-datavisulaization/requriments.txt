@@ -1,0 +1,19 @@
+Tools Used
+Python
+Pandas
+Matplotlib
+Seaborn
+
+Dataset
+Netflix Titles Dataset
+
+Visualizations
+Bar Chart
+Pie Chart
+Line Chart
+Heatmap
+Country Analysis
+Rating Analysis
+
+Conclusion
+The dashboard helps identify content trends, content types, popular ratings, and country-wise production patterns on Netflix.
